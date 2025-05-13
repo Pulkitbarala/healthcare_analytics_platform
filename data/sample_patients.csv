@@ -1,0 +1,6 @@
+PatientID,Age,Gender,Diagnosis,AdmissionDate,DischargeDate,Outcome,Department
+1,25,M,Flu,2023-01-01,2023-01-05,Recovered,Cardiology
+2,40,F,Diabetes,2023-01-10,2023-01-15,Recovered,Neurology
+3,60,M,Cancer,2023-01-20,2023-02-01,Deceased,Oncology
+4,30,F,Flu,2023-02-05,2023-02-10,Recovered,Cardiology
+5,50,M,Diabetes,2023-02-15,2023-02-20,Recovered,Neurology
